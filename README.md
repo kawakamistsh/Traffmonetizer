@@ -19,9 +19,10 @@ Traffmonetizer 是一个经过实践检验且稳定的挂机项目。它的门�
 ## 部署教程
 ### Docker 安装
 首先，登录到你的服务器，安装Docker：
-```bash
-curl -fsSL https://get.docker.com -o get-docker.sh
-sh get-docker.sh
+
+> curl -fsSL https://get.docker.com -o get-docker.sh
+
+> sh get-docker.sh
 
 ### Traffmonetizer 部署
 
