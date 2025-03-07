@@ -1,4 +1,4 @@
-# Traffmonetizer 官网地址,2024年最新Traffmonetizer教程
+# Traffmonetizer 官网地址,2025年最新Traffmonetizer教程
 
 ## Traffmonetizer 介绍
 Traffmonetizer 是一个流量变现平台，允许用户通过共享他们的互联网流量来赚钱。它适用于各种设备，包括Linux、Windows、Mac和Android，支持通过Docker一键部署，非常方便用户快速开始。
